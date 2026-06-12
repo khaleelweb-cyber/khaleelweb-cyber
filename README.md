@@ -1,3 +1,14 @@
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+
+![Foundry](https://img.shields.io/badge/Foundry-black?style=for-the-badge)
+
+![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+
 # Hi, I'm Ibrahim Khalil Umar 👋
 
 ## Smart Contract Developer
