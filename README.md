@@ -4,7 +4,7 @@
 
 ### Smart Contract Developer | Protocol Engineer | Security Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Solidity+Developer;Building+DeFi+Protocols;Foundry+Power+User;Learning+Smart+Contract+Security;Future+Protocol+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Solidity+Developer;Building+DeFi+Protocols;Foundry+Power+User;Smart+Contract+Dev;Protocol+Engineer" />
 
 </div>
 
