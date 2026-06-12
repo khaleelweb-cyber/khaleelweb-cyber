@@ -56,33 +56,6 @@
 - Fuzz Testing
 - Invariant Testing
 
-## MultiSig Architecture
-
-```text
-Owners
-   ↓
-Submit Transaction
-   ↓
-Confirm Transaction
-   ↓
-Minimum Confirmations Reached
-   ↓
-Execute Transaction
-```
-
-## AMM Architecture
-
-```text
-Token A + Token B
-          ↓
-     Liquidity Pool
-          ↓
-Reserve Updates
-          ↓
-Swap Logic
-          ↓
-Constant Product Formula
-```
 
 ![CI](https://github.com/khaleelweb-cyber/amm-core/actions/workflows/ci.yml/badge.svg)
 
@@ -94,7 +67,7 @@ Constant Product Formula
 
 </p>
 
-## Currently Learning
+## Currently building
 
 - ERC4626 Vaults
 - Lending Protocols
